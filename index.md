@@ -1,6 +1,5 @@
 # Title <!-- omit in toc -->
 
-
 - [Visual elements](#visual-elements)
   - [Bold](#bold)
   - [Italic](#italic)
