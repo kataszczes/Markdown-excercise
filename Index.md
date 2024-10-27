@@ -69,11 +69,19 @@ Link to file example: [Additional information](reference.md)
 ### Ordered list
 
 1. Point 1
-2. Point 2
-3. Point 3
+   1. Subpoint 1
+1. Point 2
+1. Point 3
 
 ### Unordered list
 
 - Item 1
 - Item 2
 - Item 3
+
+## Tables
+
+| column1 | column2 | column3                    |
+| ------- | ------- | -------------------------- |
+| row1    | row2    | row3                       |
+| row1    | row2    | lijuhlfeqiuejjjjjjjjjjjjhr |
