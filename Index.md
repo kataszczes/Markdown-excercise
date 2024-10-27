@@ -56,6 +56,10 @@ Link to file example: [Additional information](reference.md)
 
 #### External
 
+![random image](https://picsum.photos/200 "Zdjęcie")
+
 #### Internal
 
-![Bread]()
+![Bread](Easy_white_bread.jpg "Chleb")
+
+![Miura](images/Miura.png)
