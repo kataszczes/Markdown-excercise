@@ -47,3 +47,7 @@ This is a code block:
 #### External
 
 Example: [Weather forecast](https://www.meteo.pl)
+
+#### Internal
+
+Link to file example: [Additional information](reference.md)
