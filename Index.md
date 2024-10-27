@@ -63,3 +63,17 @@ Link to file example: [Additional information](reference.md)
 ![Bread](Easy_white_bread.jpg "Chleb")
 
 ![Miura](images/Miura.png)
+
+## Lists
+
+### Ordered list
+
+1. Point 1
+2. Point 2
+3. Point 3
+
+### Unordered list
+
+- Item 1
+- Item 2
+- Item 3
