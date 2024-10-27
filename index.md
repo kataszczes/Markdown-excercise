@@ -1,5 +1,25 @@
 # Title
 
+- [Title](#title)
+  - [Visual elements](#visual-elements)
+    - [Bold](#bold)
+    - [Italic](#italic)
+    - [Quote](#quote)
+    - [Code and formulas](#code-and-formulas)
+      - [Code phrase](#code-phrase)
+      - [Code block](#code-block)
+  - [Linking elements](#linking-elements)
+    - [Links to content](#links-to-content)
+      - [External](#external)
+      - [Internal](#internal)
+    - [Images](#images)
+      - [External](#external-1)
+      - [Internal](#internal-1)
+  - [Lists](#lists)
+    - [Ordered list](#ordered-list)
+    - [Unordered list](#unordered-list)
+  - [Tables](#tables)
+
 This is the first paragraph of my file.
 
 This is the second paragraph of my file.
@@ -86,3 +106,4 @@ Link to file example: [Additional information](reference.md)
 | row1    | row2    | lijuhlfeqiuejjjjjjjjjjjjhr |
 
 Test sentence
+
