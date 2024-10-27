@@ -7,6 +7,7 @@
   - [Code and formulas](#code-and-formulas)
     - [Code phrase](#code-phrase)
     - [Code block](#code-block)
+    - [Formulas](#formulas)
 - [Linking elements](#linking-elements)
   - [Links to content](#links-to-content)
     - [External](#external)
@@ -59,6 +60,14 @@ This is a code block:
 </data>
 ```
 
+#### Formulas
+
+This is a $a+b=c$
+
+This is a formula: 
+
+$$a+b=c$$
+
 ## Linking elements
 
 ### Links to content
@@ -106,3 +115,4 @@ Link to file example: [Additional information](reference.md)
 
 Test sentence
 
+This is a formula $a+b=c$
